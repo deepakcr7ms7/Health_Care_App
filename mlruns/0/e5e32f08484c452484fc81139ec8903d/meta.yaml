@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/Health_Care_App/mlruns/0/e5e32f08484c452484fc81139ec8903d/artifacts
+end_time: 1665472735335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e5e32f08484c452484fc81139ec8903d
+run_uuid: e5e32f08484c452484fc81139ec8903d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665472730406
+status: 3
+tags: []
+user_id: HP
