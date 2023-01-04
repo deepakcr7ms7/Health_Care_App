@@ -43,7 +43,7 @@ proper interpretation.
   
   <tr>
     <td>Model Developement </td>
-    <td> feature_selection, model_selection, neural network tunning, performance evaluation </td> 
+    <td> feature_selection, model_selection, model construction, optimization, neural network tunning, performance evaluation </td> 
     <td> Tensorflow, xgboost, sklearn</td>
   </tr>
   
@@ -62,3 +62,24 @@ proper interpretation.
 
 <hr>
 
+## DATA-VISUALIZATION 
+
+<h4> Alziemer </h4>
+<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Unsupervised%20LDA.png" style="width:500px;height:200px;">
+<hr>
+
+<h4> Brain Tumour  </h4>
+<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Sentiment%20Analysis.png" style="width:500px;height:200px;"> 
+<hr>
+
+<h4> Distribution of Sentiments </h4>
+<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Sentiment%20Distribution.png" style="width:500px;height:200px;"> 
+<hr>
+
+<h4> Vaccine Conversation Trends </h4>
+<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Topic%20Trends.png" style="width:500px;height:200px;"> 
+<hr>
+
+<h4> Popular Topics </h4>
+<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Popular%20Topics.png" style="width:500px;height:200px;">
+<hr>
