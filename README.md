@@ -173,8 +173,7 @@ Beam , Irene Y. Chen, Rajesh Ranganath </li>
 <hr>
 
 ## CHALLENGES-AND-FUTUREWORK 
-<b> Challenges </b>: Identifying package for tweet scraping and recognizing limitations on extraction, large execution times and runtime errors due to memory limitation for parts of data modeling </li>
-<li>Medical information is difficult to come by. As a result, if the databases were made public, researchers would have access to additional information.</li>
+<b> Challenges </b>: Identifying package for tweet scraping and recognizing limitations on extraction, large execution times and runtime errors due to memory limitation for parts of data modeling. Medical information is difficult to come by. As a result, if the databases were made public, researchers would have access to additional information.</li>
 <h4> Future Work </h4>
 <li> Explore new models to detect rare diseases </li>
 <li> Number of active COVID cases, recoveries and deaths for the three months </li> 
