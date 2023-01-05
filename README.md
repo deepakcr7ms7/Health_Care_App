@@ -74,14 +74,73 @@ proper interpretation.
   
 </p>
 
-<h4> Distribution of Sentiments </h4>
-<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Sentiment%20Distribution.png" style="width:500px;height:200px;"> 
+<h4> Covid Model Performance </h4>
+<img height="300" src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/Covid.jpg" style="width:100%"> 
 <hr>
 
 <h4> Vaccine Conversation Trends </h4>
-<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Topic%20Trends.png" style="width:500px;height:200px;"> 
+<img height="300" src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Topic%20Trends.png" style="width:100%"> 
 <hr>
 
-<h4> Popular Topics </h4>
-<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Popular%20Topics.png" style="width:500px;height:200px;">
-<hr>
+<h4> Application With Flask  </h4>
+<p float="left" > 
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/app1.jpg" alt="Preprocessing" height="350"width="500"  />
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/app3.jpg" alt="Augmented Images" height="350" width="500" />
+  
+  <br><img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/App2.jpg" alt="Augmented Images" height="350" style="width:80%" />
+  <p> &nbsp Result</p>
+  <p float="left" >
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/OIP.jpg" alt="Augmented Images" height="350" width="250" />
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT4.jpg" alt="Augmented Images" height="350" width="750" />
+</p>
+</p>
+
+## Model Accuracy
+
+<table style="width:100%">
+  <tr>
+    <th>Disease</th>
+    <th>Classifier Type</th>
+    <th>Accuracy</th> 
+  </tr>
+  
+  <tr>
+    <td> Pneumonia </td>
+    <td> CNN </td> 
+    <td> 83.17% </td>
+  </tr>
+  <tr>
+    <td> Heart Disease </td>
+    <td> XGBoost </td> 
+    <td> 86.96% </td>
+  </tr>
+<tr>
+    <td> Diabetes </td>
+    <td> Random Forest </td> 
+    <td> 89.8% </td>
+  </tr>
+<tr>
+    <td> Alzheimer </td>
+    <td> CNN </td> 
+    <td> 83.54% </td>
+  </tr>
+ 
+<tr>
+    <td> Breast Cancer</td>
+    <td> Random Forest </td> 
+    <td> 91.81% </td>
+  </tr>
+ 
+<tr>
+    <td> Brain Tumor</td>
+    <td> CNN, VGG16 </td> 
+    <td> 96.5% </td>
+  </tr>
+ 
+<tr>
+    <td> COVID-19 </td>
+    <td> CNN </td> 
+    <td> 93.5% </td>
+  </tr>
+ 
+</table>
