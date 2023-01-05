@@ -18,7 +18,7 @@ meaning to human observers and therefore the model's results may be challenging 
 proper interpretation.
 
 ## Objectives
-- To build disease classification models using 
+- To build disease classification models using Deep Neural networks and Random Forrest Classifier
 - To preprocess images using CV2 and improve model performance
 - To integrate trained models and create an app using flask
 
@@ -64,13 +64,15 @@ proper interpretation.
 
 ## DATA-VISUALIZATION 
 
-<h4> Alziemer </h4>
-<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Unsupervised%20LDA.png" style="width:500px;height:200px;">
-<hr>
-
-<h4> Brain Tumour  </h4>
-<img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Sentiment%20Analysis.png" style="width:500px;height:200px;"> 
-<hr>
+<h4> Brain Tumour </h4>
+<p float="left" >
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT_Preprocessing.jpg" alt="Preprocessing" height="250"width="500"  />
+ 
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT_2.jpg" alt="Augmented Images" height="250" width="500" />
+ 
+  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT_3.jpg" alt="Mountains" style="width:100%"/>
+  
+</p>
 
 <h4> Distribution of Sentiments </h4>
 <img src="https://github.com/rashidesai24/Analyzing-Twitter-Trends-On-COVID-19-Vaccinations/blob/main/Images/Sentiment%20Distribution.png" style="width:500px;height:200px;"> 
