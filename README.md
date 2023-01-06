@@ -76,9 +76,10 @@ Once CT images and associated labels are sourced and validated, a trained model 
  
   <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT_2.jpg" alt="Augmented Images" height="250" width="500" />
  
-  <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT_3.jpg" alt="Mountains" style="width:100%"/>
-  
+ 
 </p>
+ <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT_3.jpg" alt="Mountains" style="width:100%"/>
+  
 
 <h4> Covid Model Performance </h4>
 <img height="300" src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/Covid.jpg" style="width:100%"> 
