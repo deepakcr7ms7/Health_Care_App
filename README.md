@@ -13,7 +13,7 @@
 <hr>
 
 ## BACKGROUND 
-Machine learning is a subset of artificial intelligence utilizing mathematical and statistical methods to identify patterns in data in an automated fashion [34]. Numerous aspects of clinical practice lend themselves to computational tools to assess disease pathology, identify anomalies, triage critical patients, and various other tasks, but the scope of this article is limited to supervised learning to constrain the discussion, develop concrete examples, and because it represents the majority of clinical machine learning research.
+Machine learning is a subset of artificial intelligence utilizing mathematical and statistical methods to identify patterns in data in an automated fashion. Numerous aspects of clinical practice lend themselves to computational tools to assess disease pathology, identify anomalies, triage critical patients, and various other tasks, but the scope of this article is limited to supervised learning to constrain the discussion, develop concrete examples, and because it represents the majority of clinical machine learning research.
 
 In the context of supervised machine learning, models are fit to data, thereby learning relationships between input features and output targets. Input data represent digital encodings of, for example, X-rays, lab tests, electrocardiograms, or various other clinical data streams. The output could be a diagnostic label, a region of interest, length of stay, etc. For pedagogical ease, throughout this article, the classification of lung nodules will be used as a reference example.
 
