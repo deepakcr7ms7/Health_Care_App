@@ -94,14 +94,17 @@ Once CT images and associated labels are sourced and validated, a trained model 
 <p float="left" > 
   <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/app1.jpg" alt="Preprocessing" height="350"width="500"  />
   <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/app3.jpg" alt="Augmented Images" height="350" width="500" />
+</p>  
   
   <br><img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/App2.jpg" alt="Augmented Images" height="350" style="width:80%" />
+  
   <p> &nbsp Output </p>
+  
   <p float="left" >
   <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/OIP.jpg" alt="Augmented Images" height="300" width="250" />
   <img src="https://github.com/deepakcr7ms7/Health_Care_App/blob/master/images/BT4.jpg" alt="Augmented Images" height="300" width="750" />
-</p>
-</p>
+  </p>
+
 
 <hr>
 
